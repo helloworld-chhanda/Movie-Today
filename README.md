@@ -1,6 +1,6 @@
 # Movie Today 🎬
 
-Movie Today is a movie recommender system designed to help users discover films tailored to their preferences. Leveraging advanced recommendation algorithms and the TMDB movie metadata dataset, this project offers insightful suggestions and a smooth user experience for movie enthusiasts.
+Movie Today is a movie recommendation system designed to help users discover films tailored to their preferences. Leveraging advanced recommendation algorithms and the TMDB movie metadata dataset, this project offers insightful suggestions and a smooth user experience for movie enthusiasts.
 
 ## Table of Contents
 
